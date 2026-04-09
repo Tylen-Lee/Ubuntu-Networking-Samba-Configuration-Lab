@@ -52,10 +52,13 @@ These concepts highlight the importance of securing services, managing user acce
   
 ## 📄 Lab Report
 
-Click below to view the full Cybersecurity-Virtual-Lab-Network-Security-Simulation
+Click below to view the full Ubuntu-Networking-Samba-Configuration-Lab
 documentation:
 
-[![View Report](https://img.shields.io/badge/View-Full%20PDF-red?style=for-the-badge🔗)](./Cybersecurity-Virtual-Lab-Network-Security-Simulation.pdf)
+[![View Report](https://img.shields.io/badge/View-Full%20PDF-green?style=for-the-badge🔗)](./Ubuntu-Networking-Samba-Configuration-Lab.pdf)
+
+
+<img width="769" height="608" alt="image" src="https://github.com/user-attachments/assets/524327e7-d758-40e4-9705-e07cd4e5a7b0" />
 
 
 
