@@ -55,7 +55,7 @@ These concepts highlight the importance of securing services, managing user acce
 Click below to view the full Ubuntu-Networking-Samba-Configuration-Lab
 documentation:
 
-[![View Report](https://img.shields.io/badge/View-Full%20PDF-green?style=for-the-badge🔗)](./Ubuntu-Networking-Samba-Configuration-Lab.pdf)
+[![View Report](https://img.shields.io/badge/View-Full%20PDF-skyblue?style=for-the-badge🔗)](./Ubuntu-Networking-Samba-Configuration-Lab.pdf)
 
 
 <img width="769" height="608" alt="image" src="https://github.com/user-attachments/assets/524327e7-d758-40e4-9705-e07cd4e5a7b0" />
