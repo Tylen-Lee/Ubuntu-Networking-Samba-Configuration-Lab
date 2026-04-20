@@ -58,7 +58,7 @@ documentation:
 [![View Report](https://img.shields.io/badge/View-Full%20PDF-lime?style=for-the-badge)](./Ubuntu-Networking-Samba-Configuration-Lab.pdf)
 
 
-<img width="769" height="608" alt="image" src="https://github.com/user-attachments/assets/524327e7-d758-40e4-9705-e07cd4e5a7b0" />
+<img width="780" height="608" alt="image" src="https://github.com/user-attachments/assets/524327e7-d758-40e4-9705-e07cd4e5a7b0" />
 
 
 
